@@ -6,5 +6,6 @@ This currently contains:
 * Xiaomi 12S Ultra (thor) (devicetrees based on `?`)
 * Xiaomi 12T Pro / Redmi K50 Ultra (diting) (devicetrees based on `?`)
 * Xiaomi 13 Lite / Xiaomi Civi 2 (ziyi) (devicetrees based on `?`)
+* Xiaomi Pad 6 Pro (liuqin) (devicetrees based on `?`)
 * Redmi K60 / Poco F5 Pro (mondrian) (devicetrees based on `?`)
 * Redmi Note 12 Turbo / Poco F5 (marble) (devicetrees based on `?`)
