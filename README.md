@@ -17,7 +17,7 @@ SM Gen 4 chipsets include:
 This currently contains:
 
 * Nothing Phone 2 (pong) (devicetrees based on `LA.VENDOR.1.0.r1-23100-WAIPIO.QSSI14.0`)
-* Samsung Galaxy Z Fold4 (q4q) (devicetrees based on `F936BXXS4EWL5`)
+* Samsung Galaxy Z Fold4 (q4q) (devicetrees based on `?`)
 * Xiaomi 12 (cupid) (devicetrees based on `LA.VENDOR.1.0.r1-21200-WAIPIO.QSSI13.0`)
 * Xiaomi 12 Pro (zeus) (devicetrees based on `LA.VENDOR.1.0.r1-21200-WAIPIO.QSSI13.0`)
 * Xiaomi 12S Pro (unicorn) (devicetrees based on `LA.VENDOR.1.0.r1-21200-WAIPIO.QSSI13.0`)
