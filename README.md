@@ -26,6 +26,7 @@ This currently contains:
 * Xiaomi 13 Lite / Xiaomi Civi 2 (ziyi) (devicetrees based on `?`)
 * Xiaomi Pad 6 Pro (liuqin) (devicetrees based on `?`)
 * Xiaomi Pad 6 Max 14 (yudi) (devicetrees based on `?`)
+* Xiaomi Mix Fold 2 (zizhan) (devicetrees based on `?`)
 * POCO F4 GT (ingres) (devicetrees based on `LA.VENDOR.1.0.r1-21200-WAIPIO.QSSI13.0`)
 * Redmi K60 / Poco F5 Pro (mondrian) (devicetrees based on `?`)
 * Redmi Note 12 Turbo / Poco F5 (marble) (devicetrees based on `?`)
