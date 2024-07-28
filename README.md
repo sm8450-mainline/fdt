@@ -34,3 +34,4 @@ This currently contains:
 * Redmi Note 12 Turbo / Poco F5 (marble) (devicetrees based on `?`)
 * Redmi Note 12R / Redmi 12 5G / POCO M6 Pro 5G (sky) (devicetrees based on `?`)
 * Redmi Note 13 Pro 5G / POCO X6 5G (garnet) (devicetrees based on `?`)
+* Black Shark 5 Pro (katyusha) (devicetrees based on `?`)
